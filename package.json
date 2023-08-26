@@ -10,6 +10,7 @@
       "**/jest"
     ]
   },
+  
   "scripts": {
     "build": "./scripts/build.sh",
     "build:npm": "lerna run build --stream",
